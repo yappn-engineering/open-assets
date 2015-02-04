@@ -1,7 +1,10 @@
 # open-assets
+Javascript Plugin
 
-Loader Images Variations
+#Javascript plugin
+yappn-translator-1.0-min.js
 
+#Loader Images Variations
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-black.gif
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-blue.gif
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-blue-dark.gif
@@ -18,3 +21,4 @@ https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-pu
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-red.gif
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-yellow.gif
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-yellow-dull.gif
+
