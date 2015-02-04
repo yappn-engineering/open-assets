@@ -1,5 +1,4 @@
-# open-assets
-Javascript Plugin
+#Yappn Engineering
 
 #Javascript plugin
 yappn-translator-1.0-min.js
