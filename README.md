@@ -2,6 +2,7 @@
 
 #Javascript plugin
 yappn-translator-1.0-min.js
+https://raw.githubusercontent.com/yappn-engineering/open-assets/master/yappn-translator-1.0-min.js
 
 #Loader Images Variations
 https://raw.githubusercontent.com/yappn-engineering/open-assets/master/loader-black.gif
